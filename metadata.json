@@ -1,0 +1,5 @@
+{
+  "name": "YCBG V2",
+  "description": "A web application to create, manage, and print price quotation requests based on a specific A4 layout. Users can input data, generate PDFs, manage a list of requests, and share read-only links.",
+  "requestFramePermissions": []
+}
